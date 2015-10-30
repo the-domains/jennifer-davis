@@ -1,0 +1,23 @@
+name: Jennifer Davis
+favicon: null
+layout_spectrum: 0.1409352896735072
+typography_spectrum: 0.03336318605579436
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.617996757151559
+  lightness: 0.10859943833202124
+  saturation: 0.7949270033277571
+  rhythmicContrast: 0.26038975454866886
+purpose: []
