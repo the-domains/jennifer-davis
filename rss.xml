@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Jennifer Davis]]></title>
         <description><![CDATA[Jennifer Davis]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jennifer-davis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 30 Oct 2015 03:53:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 30 Oct 2015 03:54:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jennifer-davis/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/jennifer-davis/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">0b325e19-51bb-42b0-9cff-db5b9c2ce322</guid>
+            <pubDate>Fri, 30 Oct 2015 03:53:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e214bda-c360-482d-b2b5-19e9ef29eeda.jpg">]]></description>
-            <link>undefined4146e22b-a0ea-46f8-84e8-0cdd73d0e55b/index.html</link>
+            <link>https://thegrid.ai/jennifer-davis/4146e22b-a0ea-46f8-84e8-0cdd73d0e55b/index.html</link>
             <guid isPermaLink="false">4146e22b-a0ea-46f8-84e8-0cdd73d0e55b</guid>
             <pubDate>Fri, 30 Oct 2015 03:53:15 GMT</pubDate>
         </item>
